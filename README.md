@@ -41,18 +41,18 @@
 * [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
 * [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
 * [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
-* [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
+* [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
 * [Docker核心-Namespaces（命名空间）](https://www.zhangshoufu.com/articles/2019/07/17/1563369580339.html)
-* [Dockerd的几种网络模式Network](https://www.zhangshoufu.com/articles/2019/07/17/1563369660642.html)
 * [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
+* [Dockerd的几种网络模式Network](https://www.zhangshoufu.com/articles/2019/07/17/1563369660642.html)
 * [Docker镜像大小的计算](https://www.zhangshoufu.com/articles/2019/07/17/1563370047533.html)
+* [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
-* [FastDFS集群搭建](https://www.zhangshoufu.com/articles/2019/07/17/1563370972893.html)
-* [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
+* [FastDFS集群搭建](https://www.zhangshoufu.com/articles/2019/07/17/1563370972893.html)
 
 ### 热议
 
