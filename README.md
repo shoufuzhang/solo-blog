@@ -46,18 +46,19 @@
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
-* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
+* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [Docker核心-Namespaces（命名空间）](https://www.zhangshoufu.com/articles/2019/07/17/1563369580339.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
+* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 * [使用 supervisor 管理进程(管理docker的进程)](https://www.zhangshoufu.com/articles/2019/07/17/1563369620538.html)
-* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 
 ### 热议
 
 * [Docker核心-cgroups（控制组）](https://www.zhangshoufu.com/articles/2019/07/17/1563369541084.html)
 * [Dockerd的几种网络模式Network](https://www.zhangshoufu.com/articles/2019/07/17/1563369660642.html)
+* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [Docker Commit的来龙去脉](https://www.zhangshoufu.com/articles/2019/07/17/1563370012622.html)
 * [Docker镜像大小的计算](https://www.zhangshoufu.com/articles/2019/07/17/1563370047533.html)
 * [Docker容器的root用户](https://www.zhangshoufu.com/articles/2019/07/17/1563370119268.html)
@@ -66,7 +67,6 @@
 * [ HAproxy + keepalive + Kubeadm 安装kubernetes master高可用](https://www.zhangshoufu.com/articles/2019/07/19/1563528925426.html)
 * [通过RKE 安装kubernetess](https://www.zhangshoufu.com/articles/2019/07/19/1563528962823.html)
 * [通过kubeadm 安装kubernetes集群](https://www.zhangshoufu.com/articles/2019/07/19/1563528992447.html)
-* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 
 ---
 
