@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [写给自己](https://www.zhangshoufu.com/articles/2019/08/28/1566956770365.html)
 * [Go对文件的操作](https://www.zhangshoufu.com/articles/2019/08/24/1566611544198.html)
 * [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
 * [Linux两行脚本实现微信推送消息](https://www.zhangshoufu.com/articles/2019/08/20/1566280417315.html)
@@ -29,7 +30,6 @@
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
-* [kubernetes 之 secret](https://www.zhangshoufu.com/articles/2019/07/19/1563529343247.html)
 
 ### 热门
 
@@ -47,16 +47,17 @@
 * [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
-* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 * [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
+* [kubernetes 之 secret](https://www.zhangshoufu.com/articles/2019/07/19/1563529343247.html)
 * [Docker核心-Namespaces（命名空间）](https://www.zhangshoufu.com/articles/2019/07/17/1563369580339.html)
-* [使用 supervisor 管理进程(管理docker的进程)](https://www.zhangshoufu.com/articles/2019/07/17/1563369620538.html)
 
 ### 热议
 
 * [Docker核心-cgroups（控制组）](https://www.zhangshoufu.com/articles/2019/07/17/1563369541084.html)
+* [使用 supervisor 管理进程(管理docker的进程)](https://www.zhangshoufu.com/articles/2019/07/17/1563369620538.html)
 * [Dockerd的几种网络模式Network](https://www.zhangshoufu.com/articles/2019/07/17/1563369660642.html)
 * [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [Docker Commit的来龙去脉](https://www.zhangshoufu.com/articles/2019/07/17/1563370012622.html)
