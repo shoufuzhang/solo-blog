@@ -43,14 +43,14 @@
 * [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
 * [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
-* [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
-* [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
+* [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
+* [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
-* [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [Docker核心-Namespaces（命名空间）](https://www.zhangshoufu.com/articles/2019/07/17/1563369580339.html)
-* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 * [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 
@@ -68,8 +68,8 @@
 * [ HAproxy + keepalive + Kubeadm 安装kubernetes master高可用](https://www.zhangshoufu.com/articles/2019/07/19/1563528925426.html)
 * [通过RKE 安装kubernetess](https://www.zhangshoufu.com/articles/2019/07/19/1563528962823.html)
 * [通过kubeadm 安装kubernetes集群](https://www.zhangshoufu.com/articles/2019/07/19/1563528992447.html)
+* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 * [kubernetes 之 secret](https://www.zhangshoufu.com/articles/2019/07/19/1563529343247.html)
-* [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 
 ---
 
