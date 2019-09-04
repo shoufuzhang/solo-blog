@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Apache的三种工作模式 prefork worker even](https://www.zhangshoufu.com/articles/2019/09/04/1567565012312.html)
 * [Docker 端口映射客户不能正常访问](https://www.zhangshoufu.com/articles/2019/09/02/1567414344660.html)
 * [Etcd 高可用分布式键值数据库](https://www.zhangshoufu.com/articles/2019/08/30/1567145571234.html)
 * [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
@@ -29,30 +30,29 @@
 * [GoLang 变量 和 常量](https://www.zhangshoufu.com/articles/2019/07/19/1563529841850.html)
 * [kubernetes之资源限制,请求](https://www.zhangshoufu.com/articles/2019/07/19/1563529772658.html)
 * [kubernetes 之 Ingress](https://www.zhangshoufu.com/articles/2019/07/19/1563529715618.html)
-* [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 
 ### 热门
 
 * [goLang函数](https://www.zhangshoufu.com/articles/2019/07/17/1563356673555.html)
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
-* [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
 * [解读kubernetes中pv和pvc的关系](https://www.zhangshoufu.com/articles/2019/07/19/1563529191249.html)
+* [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
+* [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [基于Kubernetes部署redis cluster集群](https://www.zhangshoufu.com/articles/2019/07/19/1563529092980.html)
 * [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
 * [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
 * [Ubuntu 16.04 不小心更改错sudo文件,并退出来解决办法](https://www.zhangshoufu.com/articles/2019/07/19/1563528766017.html)
 * [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
-* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
-* [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
-* [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
-* [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
-* [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
-* [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
+* [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
-* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
+* [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
+* [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
+* [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 
 ### 热议
 
@@ -70,6 +70,7 @@
 * [ HAproxy + keepalive + Kubeadm 安装kubernetes master高可用](https://www.zhangshoufu.com/articles/2019/07/19/1563528925426.html)
 * [通过RKE 安装kubernetess](https://www.zhangshoufu.com/articles/2019/07/19/1563528962823.html)
 * [通过kubeadm 安装kubernetes集群](https://www.zhangshoufu.com/articles/2019/07/19/1563528992447.html)
+* [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 * [kubernetes 之 secret](https://www.zhangshoufu.com/articles/2019/07/19/1563529343247.html)
 
 ---
