@@ -51,8 +51,8 @@
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
 * [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
-* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
+* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 
 ### 热议
 
