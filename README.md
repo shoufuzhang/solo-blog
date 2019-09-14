@@ -40,8 +40,8 @@
 * [GoLang 变量 和 常量](https://www.zhangshoufu.com/articles/2019/07/19/1563529841850.html)
 * [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
-* [基于Kubernetes部署redis cluster集群](https://www.zhangshoufu.com/articles/2019/07/19/1563529092980.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
+* [基于Kubernetes部署redis cluster集群](https://www.zhangshoufu.com/articles/2019/07/19/1563529092980.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [Ubuntu 16.04 不小心更改错sudo文件,并退出来解决办法](https://www.zhangshoufu.com/articles/2019/07/19/1563528766017.html)
 * [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
@@ -52,7 +52,7 @@
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
 * [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
-* [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
+* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 
 ### 热议
 
@@ -67,8 +67,8 @@
 * [MFS（MooseFS分布式文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563370387410.html)
 * [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
 * [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
-* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [FastDFS集群搭建](https://www.zhangshoufu.com/articles/2019/07/17/1563370972893.html)
+* [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
 * [ HAproxy + keepalive + Kubeadm 安装kubernetes master高可用](https://www.zhangshoufu.com/articles/2019/07/19/1563528925426.html)
 * [通过RKE 安装kubernetess](https://www.zhangshoufu.com/articles/2019/07/19/1563528962823.html)
