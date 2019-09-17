@@ -48,11 +48,11 @@
 * [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
 * [kubernetes 之 Ingress](https://www.zhangshoufu.com/articles/2019/07/19/1563529715618.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
-* [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
+* [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
-* [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
 * [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
+* [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
 
 ### 热议
 
