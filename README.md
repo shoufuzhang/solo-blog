@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [个人简历](https://www.zhangshoufu.com/articles/2019/09/25/1569389933096.html)
 * [构建 Kubernetes 集群——合理选择工作节点数量和大小](https://www.zhangshoufu.com/articles/2019/09/19/1568864509362.html)
 * [Rabbitmq 简单介绍,安装和go客户端使用](https://www.zhangshoufu.com/articles/2019/09/13/1568342363062.html)
 * [docker19.03使用NVIDIA显卡](https://www.zhangshoufu.com/articles/2019/09/06/1567752809063.html)
@@ -29,7 +30,6 @@
 * [Ansible 变量](https://www.zhangshoufu.com/articles/2019/07/19/1563530736742.html)
 * [Ansible之循环](https://www.zhangshoufu.com/articles/2019/07/19/1563530719692.html)
 * [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
-* [ansible Playbook 剧本](https://www.zhangshoufu.com/articles/2019/07/19/1563530682387.html)
 
 ### 热门
 
@@ -38,21 +38,21 @@
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
 * [解读kubernetes中pv和pvc的关系](https://www.zhangshoufu.com/articles/2019/07/19/1563529191249.html)
 * [Ansible 批量管理工具](https://www.zhangshoufu.com/articles/2019/07/19/1563530634282.html)
+* [ansible Playbook 剧本](https://www.zhangshoufu.com/articles/2019/07/19/1563530682387.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
-* [GoLang 变量 和 常量](https://www.zhangshoufu.com/articles/2019/07/19/1563529841850.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
+* [GoLang 变量 和 常量](https://www.zhangshoufu.com/articles/2019/07/19/1563529841850.html)
 * [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
 * [基于Kubernetes部署redis cluster集群](https://www.zhangshoufu.com/articles/2019/07/19/1563529092980.html)
 * [Ubuntu 16.04 不小心更改错sudo文件,并退出来解决办法](https://www.zhangshoufu.com/articles/2019/07/19/1563528766017.html)
 * [kubernetes 之 Ingress](https://www.zhangshoufu.com/articles/2019/07/19/1563529715618.html)
 * [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
+* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
 * [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
-* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
-* [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 
 ### 热议
 
@@ -69,13 +69,13 @@
 * [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [FastDFS集群搭建](https://www.zhangshoufu.com/articles/2019/07/17/1563370972893.html)
+* [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
 * [ HAproxy + keepalive + Kubeadm 安装kubernetes master高可用](https://www.zhangshoufu.com/articles/2019/07/19/1563528925426.html)
 * [通过RKE 安装kubernetess](https://www.zhangshoufu.com/articles/2019/07/19/1563528962823.html)
 * [通过kubeadm 安装kubernetes集群](https://www.zhangshoufu.com/articles/2019/07/19/1563528992447.html)
 * [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
 * [kubernetes 之 secret](https://www.zhangshoufu.com/articles/2019/07/19/1563529343247.html)
-* [kubernetes Pod 的生命周期（Readiness and liveness）](https://www.zhangshoufu.com/articles/2019/07/19/1563529460294.html)
 
 ---
 
