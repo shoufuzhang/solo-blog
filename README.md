@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.zhangshoufu.com/my-github-repos)
 * [个人简历](https://www.zhangshoufu.com/articles/2019/09/25/1569389933096.html)
 * [构建 Kubernetes 集群——合理选择工作节点数量和大小](https://www.zhangshoufu.com/articles/2019/09/19/1568864509362.html)
 * [Rabbitmq 简单介绍,安装和go客户端使用](https://www.zhangshoufu.com/articles/2019/09/13/1568342363062.html)
@@ -29,7 +30,6 @@
 * [Ansible roles角色管理](https://www.zhangshoufu.com/articles/2019/07/19/1563530756158.html)
 * [Ansible 变量](https://www.zhangshoufu.com/articles/2019/07/19/1563530736742.html)
 * [Ansible之循环](https://www.zhangshoufu.com/articles/2019/07/19/1563530719692.html)
-* [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@
 * [kubernetes之资源限制,请求](https://www.zhangshoufu.com/articles/2019/07/19/1563529772658.html)
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
 * [解读kubernetes中pv和pvc的关系](https://www.zhangshoufu.com/articles/2019/07/19/1563529191249.html)
+* [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 * [Ansible 批量管理工具](https://www.zhangshoufu.com/articles/2019/07/19/1563530634282.html)
 * [ansible Playbook 剧本](https://www.zhangshoufu.com/articles/2019/07/19/1563530682387.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
@@ -45,17 +46,17 @@
 * [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
 * [基于Kubernetes部署redis cluster集群](https://www.zhangshoufu.com/articles/2019/07/19/1563529092980.html)
-* [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
 * [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
+* [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [Ubuntu 16.04 不小心更改错sudo文件,并退出来解决办法](https://www.zhangshoufu.com/articles/2019/07/19/1563528766017.html)
 * [kubernetes 之 Ingress](https://www.zhangshoufu.com/articles/2019/07/19/1563529715618.html)
-* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
-* [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
 
 ### 热议
 
+* [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
 * [Docker核心-cgroups（控制组）](https://www.zhangshoufu.com/articles/2019/07/17/1563369541084.html)
 * [Docker核心-Namespaces（命名空间）](https://www.zhangshoufu.com/articles/2019/07/17/1563369580339.html)
 * [使用 supervisor 管理进程(管理docker的进程)](https://www.zhangshoufu.com/articles/2019/07/17/1563369620538.html)
@@ -75,7 +76,6 @@
 * [通过RKE 安装kubernetess](https://www.zhangshoufu.com/articles/2019/07/19/1563528962823.html)
 * [通过kubeadm 安装kubernetes集群](https://www.zhangshoufu.com/articles/2019/07/19/1563528992447.html)
 * [kubernetes持久卷之NFS stroage](https://www.zhangshoufu.com/articles/2019/07/19/1563529235225.html)
-* [kubernetes 之 secret](https://www.zhangshoufu.com/articles/2019/07/19/1563529343247.html)
 
 ---
 
