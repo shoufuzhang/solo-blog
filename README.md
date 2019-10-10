@@ -47,12 +47,12 @@
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
 * [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
-* [基于Kubernetes部署redis cluster集群](https://www.zhangshoufu.com/articles/2019/07/19/1563529092980.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [基于Kubernetes部署redis cluster集群](https://www.zhangshoufu.com/articles/2019/07/19/1563529092980.html)
 * [Docker核心-联合文件系统之AUFS（分层文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563369499417.html)
 * [Ubuntu 16.04 不小心更改错sudo文件,并退出来解决办法](https://www.zhangshoufu.com/articles/2019/07/19/1563528766017.html)
 * [kubernetes 之 Ingress](https://www.zhangshoufu.com/articles/2019/07/19/1563529715618.html)
-* [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
+* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 
 ### 热议
 
@@ -63,11 +63,11 @@
 * [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [Docker Commit的来龙去脉](https://www.zhangshoufu.com/articles/2019/07/17/1563370012622.html)
 * [Docker镜像大小的计算](https://www.zhangshoufu.com/articles/2019/07/17/1563370047533.html)
+* [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
 * [Docker容器的root用户](https://www.zhangshoufu.com/articles/2019/07/17/1563370119268.html)
 * [MFS（MooseFS分布式文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563370387410.html)
 * [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
 * [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
-* [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [FastDFS集群搭建](https://www.zhangshoufu.com/articles/2019/07/17/1563370972893.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
