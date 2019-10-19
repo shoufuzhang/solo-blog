@@ -34,8 +34,8 @@
 ### 热门
 
 * [goLang函数](https://www.zhangshoufu.com/articles/2019/07/17/1563356673555.html)
-* [Ansible之循环](https://www.zhangshoufu.com/articles/2019/07/19/1563530719692.html)
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
+* [Ansible之循环](https://www.zhangshoufu.com/articles/2019/07/19/1563530719692.html)
 * [kubernetes之资源限制,请求](https://www.zhangshoufu.com/articles/2019/07/19/1563529772658.html)
 * [解读kubernetes中pv和pvc的关系](https://www.zhangshoufu.com/articles/2019/07/19/1563529191249.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
