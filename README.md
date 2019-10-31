@@ -37,8 +37,8 @@
 * [goLang函数](https://www.zhangshoufu.com/articles/2019/07/17/1563356673555.html)
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
 * [Ansible之循环](https://www.zhangshoufu.com/articles/2019/07/19/1563530719692.html)
-* [Ansible roles角色管理](https://www.zhangshoufu.com/articles/2019/07/19/1563530756158.html)
 * [解读kubernetes中pv和pvc的关系](https://www.zhangshoufu.com/articles/2019/07/19/1563529191249.html)
+* [Ansible roles角色管理](https://www.zhangshoufu.com/articles/2019/07/19/1563530756158.html)
 * [kubernetes之资源限制,请求](https://www.zhangshoufu.com/articles/2019/07/19/1563529772658.html)
 * [Dash macOS 激活授权文件](https://www.zhangshoufu.com/articles/2019/07/31/1564540585513.html)
 * [Ansible 变量](https://www.zhangshoufu.com/articles/2019/07/19/1563530736742.html)
@@ -49,10 +49,10 @@
 * [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
 * [ansible Playbook 剧本](https://www.zhangshoufu.com/articles/2019/07/19/1563530682387.html)
-* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
-* [GoLang 变量 和 常量](https://www.zhangshoufu.com/articles/2019/07/19/1563529841850.html)
+* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
+* [GoLang 变量 和 常量](https://www.zhangshoufu.com/articles/2019/07/19/1563529841850.html)
 
 ### 热议
 
