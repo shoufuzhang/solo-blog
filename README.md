@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [startupProbe存在的意义是什么？](https://www.zhangshoufu.com/articles/2019/11/04/1572838965104.html)
 * [PromQL ](https://www.zhangshoufu.com/articles/2019/10/29/1572309236932.html)
 * [prometheus 基础概念](https://www.zhangshoufu.com/articles/2019/10/29/1572309057261.html)
 * [初玩prometheus](https://www.zhangshoufu.com/articles/2019/10/29/1572309033041.html)
@@ -29,7 +30,6 @@
 * [Go对文件的操作](https://www.zhangshoufu.com/articles/2019/08/24/1566611544198.html)
 * [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
 * [Linux两行脚本实现微信推送消息](https://www.zhangshoufu.com/articles/2019/08/20/1566280417315.html)
-* [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
 
 ### 热门
 
@@ -45,14 +45,14 @@
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
 * [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
+* [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
 * [Ansible 批量管理工具](https://www.zhangshoufu.com/articles/2019/07/19/1563530634282.html)
 * [ansible Playbook 剧本](https://www.zhangshoufu.com/articles/2019/07/19/1563530682387.html)
-* [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
+* [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
-* [GoLang 变量 和 常量](https://www.zhangshoufu.com/articles/2019/07/19/1563529841850.html)
 
 ### 热议
 
