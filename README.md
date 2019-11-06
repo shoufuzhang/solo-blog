@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [podman初试-和docker对比,简单使用](https://www.zhangshoufu.com/articles/2019/11/05/1572926032968.html)
+* [Podman初试-容器发展史](https://www.zhangshoufu.com/articles/2019/11/05/1572923436353.html)
 * [startupProbe存在的意义是什么？](https://www.zhangshoufu.com/articles/2019/11/04/1572838965104.html)
 * [PromQL ](https://www.zhangshoufu.com/articles/2019/10/29/1572309236932.html)
 * [prometheus 基础概念](https://www.zhangshoufu.com/articles/2019/10/29/1572309057261.html)
@@ -28,8 +30,6 @@
 * [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
 * [写给自己](https://www.zhangshoufu.com/articles/2019/08/28/1566956770365.html)
 * [Go对文件的操作](https://www.zhangshoufu.com/articles/2019/08/24/1566611544198.html)
-* [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
-* [Linux两行脚本实现微信推送消息](https://www.zhangshoufu.com/articles/2019/08/20/1566280417315.html)
 
 ### 热门
 
@@ -43,16 +43,16 @@
 * [Dash macOS 激活授权文件](https://www.zhangshoufu.com/articles/2019/07/31/1564540585513.html)
 * [Ansible 变量](https://www.zhangshoufu.com/articles/2019/07/19/1563530736742.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
+* [Linux两行脚本实现微信推送消息](https://www.zhangshoufu.com/articles/2019/08/20/1566280417315.html)
 * [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
+* [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
 * [Ansible 批量管理工具](https://www.zhangshoufu.com/articles/2019/07/19/1563530634282.html)
-* [ansible Playbook 剧本](https://www.zhangshoufu.com/articles/2019/07/19/1563530682387.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
-* [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 * [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
-* [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
+* [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 
 ### 热议
 
@@ -71,11 +71,11 @@
 * [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
 * [FastDFS集群搭建](https://www.zhangshoufu.com/articles/2019/07/17/1563370972893.html)
 * [安装启动FastDFS报错](https://www.zhangshoufu.com/articles/2019/07/17/1563370995106.html)
+* [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
 * [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
 * [Ubuntu 16.04 不小心更改错sudo文件,并退出来解决办法](https://www.zhangshoufu.com/articles/2019/07/19/1563528766017.html)
-* [ HAproxy + keepalive + Kubeadm 安装kubernetes master高可用](https://www.zhangshoufu.com/articles/2019/07/19/1563528925426.html)
 
 ---
 
