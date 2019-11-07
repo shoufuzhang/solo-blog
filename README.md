@@ -10,6 +10,17 @@
 
 ### 最新
 
+* [使用docker增加nginx autoindex美化功能](https://www.zhangshoufu.com/articles/2019/11/07/1573086673577.html)
+* [docker垃圾回收机制](https://www.zhangshoufu.com/articles/2019/11/06/1573047709254.html)
+* [Jenkins 创建 Maven 项目](https://www.zhangshoufu.com/articles/2019/11/06/1573023483832.html)
+* [JenKins ](https://www.zhangshoufu.com/articles/2019/11/06/1573023263695.html)
+* [GitLab 私有仓库](https://www.zhangshoufu.com/articles/2019/11/06/1573022673341.html)
+* [Git打标签](https://www.zhangshoufu.com/articles/2019/11/06/1573022420336.html)
+* [GitHub 远程仓库基本操作](https://www.zhangshoufu.com/articles/2019/11/06/1573022391239.html)
+* [Git 分支](https://www.zhangshoufu.com/articles/2019/11/06/1573022162085.html)
+* [ Git 基本操作](https://www.zhangshoufu.com/articles/2019/11/06/1573021945007.html)
+* [Git 开源的分布式版本控制系统](https://www.zhangshoufu.com/articles/2019/11/06/1573021825415.html)
+* [CI/CD基础概念](https://www.zhangshoufu.com/articles/2019/11/06/1573021619113.html)
 * [podman初试-和docker对比,简单使用](https://www.zhangshoufu.com/articles/2019/11/05/1572926032968.html)
 * [Podman初试-容器发展史](https://www.zhangshoufu.com/articles/2019/11/05/1572923436353.html)
 * [startupProbe存在的意义是什么？](https://www.zhangshoufu.com/articles/2019/11/04/1572838965104.html)
@@ -19,20 +30,10 @@
 * [查看linux系统中占用cache最大的文件](https://www.zhangshoufu.com/articles/2019/10/28/1572226506215.html)
 * [kubernetes 通讯浅谈](https://www.zhangshoufu.com/articles/2019/10/13/1570972908920.html)
 * [初识 prometheus](https://www.zhangshoufu.com/articles/2019/10/11/1570756311093.html)
-* [个人简历](https://www.zhangshoufu.com/articles/2019/09/25/1569389933096.html)
-* [构建 Kubernetes 集群——合理选择工作节点数量和大小](https://www.zhangshoufu.com/articles/2019/09/19/1568864509362.html)
-* [Rabbitmq 简单介绍,安装和go客户端使用](https://www.zhangshoufu.com/articles/2019/09/13/1568342363062.html)
-* [docker19.03使用NVIDIA显卡](https://www.zhangshoufu.com/articles/2019/09/06/1567752809063.html)
-* [ubuntu离线安装TTS服务](https://www.zhangshoufu.com/articles/2019/09/06/1567752113431.html)
-* [Apache的三种工作模式 prefork worker even](https://www.zhangshoufu.com/articles/2019/09/04/1567565012312.html)
-* [Docker 端口映射客户不能正常访问](https://www.zhangshoufu.com/articles/2019/09/02/1567414344660.html)
-* [Etcd 高可用分布式键值数据库](https://www.zhangshoufu.com/articles/2019/08/30/1567145571234.html)
-* [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
-* [写给自己](https://www.zhangshoufu.com/articles/2019/08/28/1566956770365.html)
-* [Go对文件的操作](https://www.zhangshoufu.com/articles/2019/08/24/1566611544198.html)
 
 ### 热门
 
+* [docker19.03使用NVIDIA显卡](https://www.zhangshoufu.com/articles/2019/09/06/1567752809063.html)
 * [GoLang 操作数据库](https://www.zhangshoufu.com/articles/2019/07/23/1563876247893.html)
 * [goLang函数](https://www.zhangshoufu.com/articles/2019/07/17/1563356673555.html)
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
@@ -43,16 +44,15 @@
 * [Dash macOS 激活授权文件](https://www.zhangshoufu.com/articles/2019/07/31/1564540585513.html)
 * [Ansible 变量](https://www.zhangshoufu.com/articles/2019/07/19/1563530736742.html)
 * [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
+* [ubuntu离线安装TTS服务](https://www.zhangshoufu.com/articles/2019/09/06/1567752113431.html)
 * [Linux两行脚本实现微信推送消息](https://www.zhangshoufu.com/articles/2019/08/20/1566280417315.html)
 * [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 * [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
+* [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
 * [Ansible 批量管理工具](https://www.zhangshoufu.com/articles/2019/07/19/1563530634282.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
-* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
-* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
-* [Downward API（在容器内获取Pod信息）](https://www.zhangshoufu.com/articles/2019/07/19/1563529665705.html)
 
 ### 热议
 
@@ -61,11 +61,13 @@
 * [Docker核心-Namespaces（命名空间）](https://www.zhangshoufu.com/articles/2019/07/17/1563369580339.html)
 * [使用 supervisor 管理进程(管理docker的进程)](https://www.zhangshoufu.com/articles/2019/07/17/1563369620538.html)
 * [Dockerd的几种网络模式Network](https://www.zhangshoufu.com/articles/2019/07/17/1563369660642.html)
+* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [Docker Commit的来龙去脉](https://www.zhangshoufu.com/articles/2019/07/17/1563370012622.html)
 * [Docker镜像大小的计算](https://www.zhangshoufu.com/articles/2019/07/17/1563370047533.html)
 * [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
 * [Docker容器的root用户](https://www.zhangshoufu.com/articles/2019/07/17/1563370119268.html)
 * [MFS（MooseFS分布式文件系统）](https://www.zhangshoufu.com/articles/2019/07/17/1563370387410.html)
+* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [MFS 数据恢复](https://www.zhangshoufu.com/articles/2019/07/17/1563370445625.html)
 * [MooseFS 基于keepalive的高可用(未完成)](https://www.zhangshoufu.com/articles/2019/07/17/1563370479988.html)
 * [FastDFS原理介绍](https://www.zhangshoufu.com/articles/2019/07/17/1563370914662.html)
@@ -74,8 +76,6 @@
 * [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
-* [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
-* [Ubuntu 16.04 不小心更改错sudo文件,并退出来解决办法](https://www.zhangshoufu.com/articles/2019/07/19/1563528766017.html)
 
 ---
 
