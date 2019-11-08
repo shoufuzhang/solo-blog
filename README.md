@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [GoACCess 分析Nginx日志](https://www.zhangshoufu.com/articles/2019/11/07/1573106397586.html)
 * [使用docker增加nginx autoindex美化功能](https://www.zhangshoufu.com/articles/2019/11/07/1573086673577.html)
 * [docker垃圾回收机制](https://www.zhangshoufu.com/articles/2019/11/06/1573047709254.html)
 * [Jenkins 创建 Maven 项目](https://www.zhangshoufu.com/articles/2019/11/06/1573023483832.html)
@@ -29,7 +30,6 @@
 * [初玩prometheus](https://www.zhangshoufu.com/articles/2019/10/29/1572309033041.html)
 * [查看linux系统中占用cache最大的文件](https://www.zhangshoufu.com/articles/2019/10/28/1572226506215.html)
 * [kubernetes 通讯浅谈](https://www.zhangshoufu.com/articles/2019/10/13/1570972908920.html)
-* [初识 prometheus](https://www.zhangshoufu.com/articles/2019/10/11/1570756311093.html)
 
 ### 热门
 
@@ -43,14 +43,14 @@
 * [kubernetes之资源限制,请求](https://www.zhangshoufu.com/articles/2019/07/19/1563529772658.html)
 * [Dash macOS 激活授权文件](https://www.zhangshoufu.com/articles/2019/07/31/1564540585513.html)
 * [Ansible 变量](https://www.zhangshoufu.com/articles/2019/07/19/1563530736742.html)
-* [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
 * [ubuntu离线安装TTS服务](https://www.zhangshoufu.com/articles/2019/09/06/1567752113431.html)
+* [kubernete之glusterfs 持久化存储采坑记](https://www.zhangshoufu.com/articles/2019/07/19/1563529310681.html)
 * [Linux两行脚本实现微信推送消息](https://www.zhangshoufu.com/articles/2019/08/20/1566280417315.html)
+* [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
 * [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 * [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
-* [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
-* [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
+* [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [Ansible 批量管理工具](https://www.zhangshoufu.com/articles/2019/07/19/1563530634282.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
 
