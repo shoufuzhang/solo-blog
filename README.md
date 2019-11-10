@@ -35,8 +35,8 @@
 
 * [docker19.03使用NVIDIA显卡](https://www.zhangshoufu.com/articles/2019/09/06/1567752809063.html)
 * [GoLang 操作数据库](https://www.zhangshoufu.com/articles/2019/07/23/1563876247893.html)
-* [goLang函数](https://www.zhangshoufu.com/articles/2019/07/17/1563356673555.html)
 * [kubernetes Pod 驱逐机制](https://www.zhangshoufu.com/articles/2019/07/19/1563529639064.html)
+* [goLang函数](https://www.zhangshoufu.com/articles/2019/07/17/1563356673555.html)
 * [解读kubernetes中pv和pvc的关系](https://www.zhangshoufu.com/articles/2019/07/19/1563529191249.html)
 * [Ansible之循环](https://www.zhangshoufu.com/articles/2019/07/19/1563530719692.html)
 * [Ansible roles角色管理](https://www.zhangshoufu.com/articles/2019/07/19/1563530756158.html)
