@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [连接redis报错MISCONF Redis is configured to save RDB snapshots](https://www.zhangshoufu.com/articles/2019/11/11/1573460380600.html)
 * [GoACCess 分析Nginx日志](https://www.zhangshoufu.com/articles/2019/11/07/1573106397586.html)
 * [使用docker增加nginx autoindex美化功能](https://www.zhangshoufu.com/articles/2019/11/07/1573086673577.html)
 * [docker垃圾回收机制](https://www.zhangshoufu.com/articles/2019/11/06/1573047709254.html)
@@ -29,7 +30,6 @@
 * [prometheus 基础概念](https://www.zhangshoufu.com/articles/2019/10/29/1572309057261.html)
 * [初玩prometheus](https://www.zhangshoufu.com/articles/2019/10/29/1572309033041.html)
 * [查看linux系统中占用cache最大的文件](https://www.zhangshoufu.com/articles/2019/10/28/1572226506215.html)
-* [kubernetes 通讯浅谈](https://www.zhangshoufu.com/articles/2019/10/13/1570972908920.html)
 
 ### 热门
 
@@ -49,8 +49,8 @@
 * [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
 * [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 * [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
-* [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
+* [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 
