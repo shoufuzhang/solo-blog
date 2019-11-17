@@ -52,7 +52,7 @@
 * [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
 * [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
-* [Ansible 批量管理工具](https://www.zhangshoufu.com/articles/2019/07/19/1563530634282.html)
+* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 
 ### 热议
 
@@ -62,7 +62,6 @@
 * [使用 supervisor 管理进程(管理docker的进程)](https://www.zhangshoufu.com/articles/2019/07/17/1563369620538.html)
 * [Dockerd的几种网络模式Network](https://www.zhangshoufu.com/articles/2019/07/17/1563369660642.html)
 * [Docker的资源限制](https://www.zhangshoufu.com/articles/2019/07/17/1563369732297.html)
-* [精简docker镜像的建议](https://www.zhangshoufu.com/articles/2019/07/17/1563369907854.html)
 * [Docker Commit的来龙去脉](https://www.zhangshoufu.com/articles/2019/07/17/1563370012622.html)
 * [Docker镜像大小的计算](https://www.zhangshoufu.com/articles/2019/07/17/1563370047533.html)
 * [Docker 镜像内有啥,存哪？](https://www.zhangshoufu.com/articles/2019/07/17/1563370089862.html)
@@ -76,6 +75,7 @@
 * [NFS高可用(NFS+keepalive+Sersync)](https://www.zhangshoufu.com/articles/2019/07/17/1563371054455.html)
 * [ GlusterFS 简介](https://www.zhangshoufu.com/articles/2019/07/17/1563371253381.html)
 * [GlusterFS快速安装](https://www.zhangshoufu.com/articles/2019/07/17/1563371275639.html)
+* [GlusterFS基本操作](https://www.zhangshoufu.com/articles/2019/07/17/1563371326510.html)
 
 ---
 
