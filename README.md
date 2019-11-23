@@ -48,11 +48,11 @@
 * [Kubernetes 高可用安装](https://www.zhangshoufu.com/articles/2019/08/28/1567004212871.html)
 * [Linux两行脚本实现微信推送消息](https://www.zhangshoufu.com/articles/2019/08/20/1566280417315.html)
 * [kubernetes pod异常排错思路](https://www.zhangshoufu.com/articles/2019/07/19/1563529507448.html)
-* [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 * [首富带你畅谈:蓝绿部署、滚动发布、灰度发布/金丝雀发布](https://www.zhangshoufu.com/articles/2019/08/02/1564708136850.html)
+* [Ansible 条件选择](https://www.zhangshoufu.com/articles/2019/07/19/1563530701155.html)
 * [Go time](https://www.zhangshoufu.com/articles/2019/08/21/1566377972430.html)
-* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 * [Docker 端口映射客户不能正常访问](https://www.zhangshoufu.com/articles/2019/09/02/1567414344660.html)
+* [MFS 配置文件详解](https://www.zhangshoufu.com/articles/2019/07/17/1563370417370.html)
 
 ### 热议
 
